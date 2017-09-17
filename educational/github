@@ -1,0 +1,16 @@
+How to take a code from github  -  first copy the link from git repository then in command prompt reach the specific folder and write the following command (git clone copied url)
+
+how to add a code - git add .(for complete code), git add specific file position(for specific file which position would be reference to project folder which is in command prompt).
+
+how to commit a code - git commit -m "message for printing"
+
+how to pull a code - git pull origin branch-name
+
+how to push a code - git push origin branch-name
+
+how to merge existing branch with another branch - git merge origin another branch which code will be merged with existing branch
+
+----------------------------stash command ------------------------------------------------
+
+
+git stash for stashing the present code for future purpose
